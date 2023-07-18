@@ -1,0 +1,45 @@
+INTRODUCTION & MOTIVATION
+
+QuantumVizier: Exploring the Fascinating World of Quantum Computing
+
+
+- Introduction: Quantum computing is an emerging field with the potential to revolutionize computation by leveraging the principles of quantum mechanics. 
+- Motivation: The development of quantum computing brings forth new challenges and opportunities. Understanding and visualizing quantum states, such as those represented on the Bloch sphere, is crucial for comprehending the behavior of qubits and the effects of quantum gates. This motivates the creation of tools like the Bloch sphere visualizer to enhance learners' understanding and facilitate exploration of quantum states.
+
+
+Note: QuantumVizier is intended for educational purposes and focuses on single qubit rotations. It does not support multi-qubit operations or advanced quantum algorithms.
+
+
+Problem statement And Objectives
+Problem Statement:
+Develop a Bloch sphere visualizer using the IBM Quantum Experience and Python programming language to provide a user-friendly platform for learners to explore and understand quantum states of a single qubit.
+Objectives:
+Create a visually intuitive representation of the Bloch sphere to visualize quantum states.
+Enable users to interactively manipulate and observe the effects of quantum gates on the quantum state.
+Provide a platform for learners to gain insights into quantum computing concepts by exploring various quantum states.
+Enhance learners' understanding of the behavior of qubits on the Bloch sphere and the impact of quantum gates.
+Facilitate the application of acquired knowledge to more complex quantum computing problems.
+
+
+INNOVATION IN THE
+FUNCTIONALITIES/ OBJECTIVES
+strategies
+Innovative visualization techniques
+Real-time simulation
+Interactive gate manipulation
+Incorporation of measurement and measurement outcomes
+
+potential strateies
+Integration with quantum algorithms
+
+
+REFERENCES
+1. IBM Quantum Experience: [Link](https://www.ibm.com/quantum-computing/experience/)
+2. Qiskit documentation: [Link](https://qiskit.org/documentation/)
+3. Nielsen, M. A., & Chuang, I. L. (2010). Quantum computation and quantum information: 10th anniversary edition. Cambridge university press.
+4. Preskill, J. (2018). Quantum computing in the NISQ era and beyond. Quantum, 2, 79.
+5. Kandala, A., Mezzacapo, A., Temme, K., Takita, M., Tanaka, T., & Mitarai, K. (2017). Hardware-efficient variational quantum eigensolver for small molecules and quantum magnets. Nature, 549(7671), 242-246.
+6. Cao, Y., Romero, J., Olson, J. P., Degroote, M., Johnson, P. D., Kieferová, M., ... & Aspuru-Guzik, A. (2019). Quantum chemistry in the age of quantum computing. Chemical reviews, 119(19), 10856-10915.
+7. qbit_rotation_sim GitHub repository: [Link](https://github.com/praveen-venkatachalam/qbit_rotation_sim)
+
+

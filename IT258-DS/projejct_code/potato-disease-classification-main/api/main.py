@@ -10,6 +10,10 @@ import tensorflow as tf
 
 app = FastAPI()
 
+
+# @app.get("/ping")
+# async def ping():
+#     return "hello world"
 origins = [
     "http://localhost",
     "http://localhost:3000",
@@ -22,7 +26,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-MODEL = tf.keras.models.load_model("../saved_models/1")
+MODEL = tf.keras.models.load_model("C:/Users/vivek/Desktop/sem4/IT258-DS/projejct_code/potato-disease-classification-main/saved_models/1")
 
 CLASS_NAMES = ["Early Blight", "Late Blight", "Healthy"]
 
